@@ -18,12 +18,13 @@
     margin-left: 10px;
     background-color: rgb(89, 89, 89);
     color: white;
-    padding: 10px;
+    padding: 20px;
 }
 
 .add-button:hover{
     background-color: black;
     color: white;
+
 }
 
 .todo-input{

@@ -2,8 +2,7 @@ import React from 'react'
 import { CiSquareRemove } from "react-icons/ci";
 import { CiEdit } from "react-icons/ci";
 
-
-function Todolist() {
+function Todo() {
   return (
     <div className="todo-item">
         <div>
@@ -17,4 +16,4 @@ function Todolist() {
   )
 }
 
-export default Todolist
+export default Todo

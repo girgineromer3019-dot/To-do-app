@@ -2,11 +2,11 @@ import React from 'react'
 import { CiSquareRemove } from "react-icons/ci";
 import { CiEdit } from "react-icons/ci";
 
-function Todo() {
+function Todo({ todo }) {
   return (
     <div className="todo-item">
         <div>
-            <p>First to-do</p>
+            {todo.content}
         </div>
         <div className='icons'>
             <CiSquareRemove />

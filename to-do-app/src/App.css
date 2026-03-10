@@ -12,6 +12,7 @@
     max-width: 500px;
     margin: 20px auto;
     border: 3px solid black;
+
 }
 
 .add-button{
@@ -30,26 +31,54 @@
 .todo-input{
     width: 100%;
     padding: 10px;
-    border: 1px solid black;
+    border: 2px solid black;
+    margin-left: 10px;
 }
 
 .todo-item{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-direction: row;
+    border: 1px solid black;
     padding: 10px;
-    border-bottom: 1px solid black;
+    margin-top: 10px;
+
 }   
 
 .todolist{
     width: 100%;
     max-width: 500px;
     margin: 20px auto;
-    border: 2px solid black;
+    
 }
 
 .icons{
     display: flex;
     gap: 10px;
     font-size: 25px;
+}
+
+.removeicon:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    border-radius: 25%;
+}
+
+.editicon:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    border-radius: 25%;
+}
+
+.checkicon:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    border-radius: 25%;
 }

@@ -36,7 +36,7 @@ const toggleComplete = (id) => {
 
 return (
   <div className='App'>
-    <div style={{textAlign:'center',fontSize:'24px', width:'100%', padding:'10px', borderBottom:'1px solid black'}}>
+    <div style={{textAlign:'center',fontSize:'30px', width:'100%', padding:'10px', borderBottom:'4px solid black'}}>
       TO-DO-LIST
     </div>
     <div>

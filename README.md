@@ -18,7 +18,7 @@ The app allows users to add, complete, and delete tasks.
 - CSS
 
 ## Screenshot
-![Currency App Screenshot](src/C95FD6A2-5641-409E-B19E-85480D5DFFC5.png)
+![To-Do-App App Screenshot](src/C95FD6A2-5641-409E-B19E-85480D5DFFC5.png)
 ## Installation
 
 Clone the repository:

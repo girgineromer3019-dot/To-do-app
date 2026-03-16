@@ -17,6 +17,8 @@ The app allows users to add, complete, and delete tasks.
 - HTML
 - CSS
 
+## Screenshot
+
 ## Installation
 
 Clone the repository:

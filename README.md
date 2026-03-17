@@ -1,26 +1,27 @@
-# React To-Do List App
+# 📝 React To-Do List App
 
-This is a simple To-Do List application built with React.  
-The app allows users to add, complete, and delete tasks.
+This project is a simple To-Do List application built with React.  
+It allows users to manage their daily tasks efficiently through a clean interface.
 
-## Features
+## 🚀 Features
 
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
-- Simple and clean interface
+- Clean and minimal UI
 
-## Technologies Used
+## 📸 Screenshot
+
+![To-Do App Screenshot](to-do-app/src/images/C95FD6A2-5641-409E-B19E-85480D5DFFC5.png)
+
+## 🛠️ Technologies Used
 
 - React
 - JavaScript
 - HTML
 - CSS
 
-## Screenshot
-![To-Do App Screenshot](to-do-app/src/images/C95FD6A2-5641-409E-B19E-85480D5DFFC5.png)
-
-## Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -34,10 +35,10 @@ Run the application:
 
 npm start
 
-## Purpose
+## 🎯 Purpose
 
-The purpose of this project is to practice React fundamentals such as components, state management, and event handling.
+This project was created to practice core React concepts such as components, state management, and event handling.
 
-## Author
+## 👨‍💻 Author
 
 Ömer Girginer
